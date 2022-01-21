@@ -1,22 +1,24 @@
-# 📝 Project Title
-[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+# 📝 project
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 📌 [Link to Live Application](https://fakeurl.com)
 
 
 ## 📚 Description
-This is a project that has a description
+description
 
 ## 📖 Table of Contents
 
+- [📝 project](#-project)
   - [📚 Description](#-description)
+  - [📖 Table of Contents](#-table-of-contents)
   - [💾 Installation](#-installation)
   - [🤝 Usage](#-usage)
 
 ## 💾 Installation
 To install, run the following command in the project terminal:
 ```
-npm install project
+npm install
 ```
 
 ## 🤝 Usage
