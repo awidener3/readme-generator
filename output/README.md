@@ -1,23 +1,21 @@
-# 📝 Project Title
+# 📝 Example Title
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 📌 [Link to Live Application](https://fakeurl.com)
 
 ## Table of Contents
 
-- [📝 Project Title](#-project-title)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Description
 
-Project description goes here.
+Example Description
 
 
 ## Installation
@@ -29,7 +27,7 @@ npm install
 
 ## Usage
 
-To initialize application, type `npm start` in the terminal.
+`npm start` to begin
 
 
 ## License
@@ -38,14 +36,14 @@ This project is license under the MIT License License - click on the badge at th
 
 ## Contributing
 
-Anyone can contribute with a pull request.
+N/A
 
 ## Tests
 
-none
+N/A
 
 ## Questions
 
-If you have any questions regarding this project, send me an email at awidener3@gmail.com.
+If you have any questions regarding this project, send me an email at email@mail.com.
 
-Follow me on [GitHub](https://github.com/awidener3) for more updates!
+Follow me on [GitHub](https://github.com/username) for more updates!

@@ -32,8 +32,20 @@ npm install
 Fork the repo and download to your machine. Go into the terminal for that directory and initiate the application with `npm start`. Answer the questions as you are prompted, and your file will appear in the 'output' folder on your machine.
 
 1. `npm install` to download needed packages.
+   
+![usage step 1](assets/images/usage-1.png)
+
 2. `npm start` to begin application.
-3. Navigate to '/output' where the README.md file has been generated.
+   
+![usage step 2](assets/images/usage-2.png)
+
+3. Fill out prompts in the terminal
+   
+![usage step 3](assets/images/usage-3.png) 
+
+4. Navigate to '/output' where the README.md file has been generated.
+  
+![usage step 4](assets/images/usage-4.png)
 
 
 ## License
