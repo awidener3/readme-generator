@@ -1,17 +1,14 @@
-formatData = (data) => {
-    
-    let sentence = 
-    `# 📝 ${data.title}
-${getLicense(data.license)}
+formatData = ({ title, description, install, usage, contribute, testing, license, username, email }) =>
+`# 📝 ${title}
+${getLicense(license)}
 
 📌 [Link to Live Application](https://fakeurl.com)
 
 
 ## 📚 Description
-${data.description}
+${description}
 
 ## 📖 Table of Contents
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -22,18 +19,30 @@ ${data.description}
 ## 💾 Installation
 To install, run the following command in the project terminal:
 ${'```'}
-${data.install}
+${install}
 ${'```'}
 
-## 🤝 Usage
-${data.usage}
+## 📟 Usage
+${usage}
 
 
+## 📏 License
+This project is license under the ${license} License - click on the badge at the top of the page for more info. 
 
+## 🔨 Contributing
+${contribute}
+
+## 📝Tests
+${testing}
+
+## ❔ Questions
+
+If you have any questions regarding this project, send me an email at ${email}.
+Follow my [GitHub profile](https://github.com/${username}) for more updates!
 `;
-    return sentence;
-}
 
+
+// grabs the value of the selected license and returns the markdown syntax for the licenses' badge
 getLicense = (license) => {
     let badge;
 
