@@ -29,6 +29,8 @@ npm install
 
 ## Usage
 
+📽 [Watch a video walkthrough!](assets/images/application-walkthrough.mov)
+
 Fork the repo and download to your machine. Go into the terminal for that directory and initiate the application with `npm start`. Answer the questions as you are prompted, and your file will appear in the 'output' folder on your machine.
 
 
