@@ -1,6 +1,8 @@
 # 📝 README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+📌 [See an example of a generated README.md here!](output/README.md)
+
 ## Table of Contents
 
 - [📝 README Generator](#-readme-generator)
