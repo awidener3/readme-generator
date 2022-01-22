@@ -4,11 +4,9 @@ ${getLicense(license)}
 
 📌 [Link to Live Application](https://fakeurl.com)
 
-
-## 📚 Description
-${description}
-
-## 📖 Table of Contents
+## Table of Contents
+---
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -16,29 +14,41 @@ ${description}
 - [Tests](#tests)
 - [Questions](#questions)
 
-## 💾 Installation
+## Description
+---
+${description}
+
+
+## Installation
+---
 To install, run the following command in the project terminal:
 ${'```'}
 ${install}
 ${'```'}
 
-## 📟 Usage
+## Usage
+---
 ${usage}
 
 
-## 📏 License
+## License
+---
 This project is license under the ${license} License - click on the badge at the top of the page for more info. 
 
-## 🔨 Contributing
+## Contributing
+---
 ${contribute}
 
-## 📝Tests
+## Tests
+---
 ${testing}
 
-## ❔ Questions
+## Questions
+---
 
 If you have any questions regarding this project, send me an email at ${email}.
-Follow my [GitHub profile](https://github.com/${username}) for more updates!
+
+Follow me on [GitHub](https://github.com/${username}) for more updates!
 `;
 
 
