@@ -1,3 +1,4 @@
+// returns a long string that will populate the README.md file
 formatData = ({ title, description, install, usage, contribute, testing, license, username, email }) =>
 `# 📝 ${title}
 ${getLicense(license)}
