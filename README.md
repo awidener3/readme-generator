@@ -1,8 +1,6 @@
 # 📝 README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-📌 [Link to Live Application](https://fakeurl.com)
-
 ## Table of Contents
 
 - [📝 README Generator](#-readme-generator)
@@ -29,9 +27,13 @@ npm install
 
 ## Usage
 
-📽 [Watch a video walkthrough!](assets/images/application-walkthrough.mov)
+📽 [Watch a video walkthrough!](assets/images/readme-generator-walkthrough.mov)
 
 Fork the repo and download to your machine. Go into the terminal for that directory and initiate the application with `npm start`. Answer the questions as you are prompted, and your file will appear in the 'output' folder on your machine.
+
+1. `npm install` to download needed packages.
+2. `npm start` to begin application.
+3. Navigate to '/output' where the README.md file has been generated.
 
 
 ## License

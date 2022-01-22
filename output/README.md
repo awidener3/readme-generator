@@ -1,21 +1,23 @@
-# 📝 Example Project Name
+# 📝 Project Title
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 📌 [Link to Live Application](https://fakeurl.com)
 
 ## Table of Contents
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [📝 Project Title](#-project-title)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
 ## Description
 
-Description of project goes here.
+Project description goes here.
 
 
 ## Installation
@@ -27,7 +29,7 @@ npm install
 
 ## Usage
 
-npm start to begin program
+To initialize application, type `npm start` in the terminal.
 
 
 ## License
@@ -36,7 +38,7 @@ This project is license under the MIT License License - click on the badge at th
 
 ## Contributing
 
-none
+Anyone can contribute with a pull request.
 
 ## Tests
 
