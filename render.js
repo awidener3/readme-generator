@@ -5,6 +5,7 @@ ${getLicense(license)}
 📌 [Link to Live Application](https://fakeurl.com)
 
 ## Table of Contents
+
 ---
 - [Description](#description)
 - [Installation](#installation)
@@ -15,35 +16,42 @@ ${getLicense(license)}
 - [Questions](#questions)
 
 ## Description
+
 ---
 ${description}
 
 
 ## Installation
+
 ---
-To install, run the following command in the project terminal:
+To install needed packages, run the following command in the project terminal:
 ${'```'}
 ${install}
 ${'```'}
 
 ## Usage
+
 ---
 ${usage}
 
 
 ## License
+
 ---
 This project is license under the ${license} License - click on the badge at the top of the page for more info. 
 
 ## Contributing
+
 ---
 ${contribute}
 
 ## Tests
+
 ---
 ${testing}
 
 ## Questions
+
 ---
 
 If you have any questions regarding this project, send me an email at ${email}.
