@@ -1,3 +1,4 @@
+// questions pulled out of index.js for better modularity
 const questions = [
     {
         type: 'input',
